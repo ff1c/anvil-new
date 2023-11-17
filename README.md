@@ -14,6 +14,8 @@ or directly from github
 ```
 pip install git+https://github.com/intergalactyc/anvil-new.git
 ```
+#
+updated to further subdivide into subchunks for optimization
 
 # Usage
 Documentation coming soon.
